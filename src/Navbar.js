@@ -1,10 +1,10 @@
 import React from 'react';
 
 
-const Navbar = () =>{
+const Navbar = () => {
     return <>
-       <nav>My awesome Navabr</nav>
+        <nav>My awesome Navabr</nav>
     </>
 }
 
-export default Navabr;
+export default Navbar;
