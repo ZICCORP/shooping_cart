@@ -1,8 +1,13 @@
-import React from 'react'
+import React from 'react';
+import Navbar from './Navbar';
+import CartContainer from './CartContainer';
 
 function App() {
   return <>
-    <h1>Awesome Shopping Cart</h1>
+    <main>
+      <Navbar />
+      <CartContainer />
+    </main>
   </>
 }
 
