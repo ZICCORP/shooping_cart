@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 Runs the app.\
-Open [shoppingcartpage-clone.netlify.app//](shoppingcartpage-clone.netlify.app/) to view it in the browser.
+Open [shoppingcartpage-clone.netlify.app/](shoppingcartpage-clone.netlify.app/) to view it in the browser.
