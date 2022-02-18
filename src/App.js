@@ -1,14 +1,17 @@
-import React from 'react';
-import Navbar from './Navbar';
-import CartContainer from './CartContainer';
+import React from 'react'
+import { AppProvider } from './context'
+// components
+import Main from './main'
+// import CartContainer from './CartContainer'
+// items
 
 function App() {
+
   return <>
-    <main>
-      <Navbar />
-      <CartContainer />
-    </main>
+    <AppProvider>
+      <Main />
+    </AppProvider>
   </>
 }
 
-export default App;
+export default App
